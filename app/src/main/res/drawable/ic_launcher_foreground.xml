@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Candle 1 (Red Bear) -->
+    <path
+        android:fillColor="#EF5350"
+        android:pathData="M34,45h8v24h-8z" />
+    <path
+        android:strokeColor="#EF5350"
+        android:strokeWidth="2"
+        android:pathData="M38,35v45" />
+
+    <!-- Candle 2 (Green Bull) -->
+    <path
+        android:fillColor="#26A69A"
+        android:pathData="M66,25h8v45h-8z" />
+    <path
+        android:strokeColor="#26A69A"
+        android:strokeWidth="2"
+        android:pathData="M70,12v74" />
+
+    <!-- Breakout Trendline Arrow -->
+    <path
+        android:strokeColor="#E2B714"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M24,78 L48,54 L84,24 L64,24 M84,24 L84,44" />
+</vector>

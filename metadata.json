@@ -1,0 +1,6 @@
+{
+  "name": "Trader Trainer",
+  "description": "Learn and practice trading chart and candlestick patterns with 3 educational levels, interactive quizzes, and reward points.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
